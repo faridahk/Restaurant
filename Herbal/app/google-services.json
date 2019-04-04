@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "104659435070",
+    "firebase_url": "https://herbal-1545e.firebaseio.com",
+    "project_id": "herbal-1545e",
+    "storage_bucket": "herbal-1545e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104659435070:android:d0567320aaa903c0",
+        "android_client_info": {
+          "package_name": "com.sylivia.herbal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "104659435070-28pr17f1d6868n282t5m05dbc8fvc7hj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sylivia.herbal",
+            "certificate_hash": "758e16ca05a62c23a87d197ae65b51d812b2c23c"
+          }
+        },
+        {
+          "client_id": "104659435070-p1oor87oeib4mn07jhgto5ctn2j2j491.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDitYC_DoFBjUW98EkHX4AQlq1prIR6TF0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "104659435070-p1oor87oeib4mn07jhgto5ctn2j2j491.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

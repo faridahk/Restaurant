@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/havana"
+    tools:context=".LoginActivity">
+
+
+    <TextView
+        android:id="@+id/txtview"
+        android:layout_marginTop="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Login or Register here"
+        android:gravity="center"
+        android:textSize="20sp"
+        android:textColor="@android:color/white"
+        />
+
+    <Button
+        android:layout_marginTop="230dp"
+        android:id="@+id/btn1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Login"
+        android:textColor="@android:color/holo_red_dark"
+        android:background="@android:color/white"
+        android:layout_marginStart="10dp"
+        android:layout_marginEnd="10dp"
+        android:layout_below="@+id/txtview"
+
+        />
+
+
+    <Button
+        android:layout_marginTop="10dp"
+        android:id="@+id/btn2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Register"
+        android:textColor="@android:color/holo_red_dark"
+        android:layout_below="@+id/btn1"
+        android:background="@android:color/white"
+        android:layout_marginStart="10dp"
+        android:layout_marginEnd="10dp"
+
+        />
+
+
+
+</RelativeLayout>
